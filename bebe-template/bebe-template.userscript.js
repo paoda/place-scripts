@@ -9,7 +9,7 @@
 // @grant        none
 // ==/UserScript==
 
-const OVERLAY_URL = "https://cdn.discordapp.com/attachments/959883192951779390/960067040851402762/template.png";
+const OVERLAY_URL = "https://github.com/paoda/place-scripts/raw/main/bebe-template/bebe-template.png";
 
 if (window.top !== window.self) {
     window.addEventListener('load', () => {

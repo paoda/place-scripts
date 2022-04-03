@@ -13,7 +13,7 @@ if (window.top !== window.self) {
         // Load the image
         const image = document.createElement("img");
         image.id = "overlay"
-        image.src = "https://cdn.discordapp.com/attachments/960245052213436466/960296549345271868/don-template.png";
+        image.src = "https://github.com/paoda/place-scripts/raw/main/don-template/don-template.png";
         image.onload = () => {
             image.style = `position: absolute; left: 0; top: 0; width: ${image.width / 3}px; height: ${image.height / 3}px; image-rendering: pixelated; z-index: 1`;
         };
