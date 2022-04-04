@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         don-chan template
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  try to take over the canvas!
 // @author       oralekin, LittleEndu, ekgame
 // @match        https://hot-potato.reddit.com/embed*
